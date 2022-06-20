@@ -72,7 +72,7 @@ var tutorial = function() {
     var girlfriend = function() {
         botui.message.add({
             delay: 1000,
-            content: '![70df72e778b54682a476e7af42ac45ff.jpg](https://img.huihuige.xyz/images/2022/02/12/70df72e778b54682a476e7af42ac45ff.jpg)'
+            content: '![新垣结衣](https://img.huihuige.xyz/images/2022/02/12/70df72e778b54682a476e7af42ac45ff.jpg)'
         }).then(function() {
             return botui.message.add({
                 delay: 1000,
